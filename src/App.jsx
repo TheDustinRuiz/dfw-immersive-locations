@@ -5,7 +5,8 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>DFW Immersive Adventures: Explore Art, Culture, and Creativity</h1>
+      <h1>DFW Immersive Adventures</h1>
+      <h2>Explore Art, Culture, and Creativity</h2>
       <Locations />
     </div>
   )
